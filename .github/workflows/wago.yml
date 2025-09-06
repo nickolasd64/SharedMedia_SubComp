@@ -2,6 +2,8 @@ name: Publish Addon to Wago
 
 on:
   push:
+    tag:
+      - beta
     branches:
       - main  # your default branch
 
