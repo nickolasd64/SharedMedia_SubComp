@@ -2,8 +2,7 @@
 ## Title: SharedMedia_SubComp
 ## Notes: SubComp Media Addon
 ## Author: Skylum
-## Version: 11.2.0.13
-## IconTexture: media\backgrounds\sc.blp
+## Version: 11.2.0.14
 ## OptionalDeps: LibSharedMedia-3.0
 
 core.lua
