@@ -1,8 +1,8 @@
-## Interface: 110200
+## Interface: 110205
 ## Title: SharedMedia_SubComp
 ## Notes: SubComp Media Addon
 ## Author: Skylum
-## Version: 11.2.0.9
+## Version: 11.2.0.10
 ## IconTexture: media\backgrounds\sc.blp
 ## OptionalDeps: LibSharedMedia-3.0
 
