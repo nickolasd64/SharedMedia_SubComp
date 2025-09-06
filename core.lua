@@ -64,7 +64,6 @@ registerFiles("sound", "sounds\\current", "Current", {
 
 registerFiles("sound", "sounds\\common", "Common", {
     "Circle Watch Feet.ogg",
-    "Fucking_Disaster.ogg",
     "Intermission.ogg",
     "Kill Adds.ogg",
     "Kill Dragon.ogg",
@@ -88,7 +87,6 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Move to Triangle.ogg",
     "Move to X.ogg",
     "Orbs Coming.ogg",
-    "Peak_Performance.ogg",
     "Phase 2 Start.ogg",
     "Platforms.ogg",
     "Puddles Left.ogg",
@@ -99,13 +97,13 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Soak 2.ogg",
     "Soaks.ogg",
     "Tank Nuke countdown.ogg",
-    "What_does_that_mean.ogg",
 })
 
 registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 
