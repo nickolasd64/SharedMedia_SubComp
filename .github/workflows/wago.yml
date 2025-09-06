@@ -1,18 +1,21 @@
-name: Publish to Wago
+name: Publish Addon to Wago
 
 on:
   push:
     branches:
-      - main  # or your default branch
+      - main  # your default branch
 
 jobs:
   wago:
     runs-on: ubuntu-latest
+
     steps:
+      # Checkout the repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Publish addon to Wago
       - name: Create Package
         uses: BigWigsMods/packager@master
         env:
-          WAGO_API_TOKEN: $6bAcWzqfCNkAba9d4zPWx7PD0mCBC7gJyMKmdaYk
+          WAGO_API_TOKEN: ${{ secrets.WAGO_API_TOKEN }}
