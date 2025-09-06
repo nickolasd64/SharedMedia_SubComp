@@ -2,7 +2,7 @@
 ## Title: SharedMedia_SubComp
 ## Notes: SubComp Media Addon
 ## Author: Skylum
-## Version: 11.2.0.27
+## Version: 11.2.0.28
 ## X-Wago-ID: kNMdaqGz
 ## OptionalDeps: LibSharedMedia-3.0
 

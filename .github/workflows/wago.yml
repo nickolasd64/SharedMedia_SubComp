@@ -18,7 +18,7 @@ jobs:
       - name: Extract version from TOC
         id: get_version
         run: |
-          VERSION=$(grep -m1 "^## Version:" SharedMedia_SubComp/SharedMedia_SubComp.toc | cut -d ' ' -f3-)
+          VERSION=$(grep -m1 "^## Version:" SharedMedia_SubComp.toc | cut -d ' ' -f3-)
           echo "VERSION=$VERSION" >> $GITHUB_ENV
 
       # Create Package & Upload to Wago (always stable)
@@ -27,4 +27,4 @@ jobs:
         env:
           WAGO_API_TOKEN: ${{ secrets.WAGO_API_TOKEN }}
           VERSION: ${{ env.VERSION }}
-          RELEASE_TYPE: retail-beta
+          RELEASE_TYPE: retail beta
