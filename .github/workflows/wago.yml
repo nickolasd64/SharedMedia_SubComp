@@ -2,10 +2,10 @@ name: Publish Addon to Wago
 
 on:
   push:
-    tag:
-      - beta
     branches:
       - main  # your default branch
+    tag:
+      - beta
 
 jobs:
   wago:
@@ -30,3 +30,4 @@ jobs:
           WAGO_API_TOKEN: ${{ secrets.WAGO_API_TOKEN }}
           VERSION: ${{ env.VERSION }}
           RELEASE_TYPE: retail beta
+          BUILD_TYPE: retail beta non-debug
