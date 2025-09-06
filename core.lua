@@ -87,6 +87,7 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Move to Triangle.ogg",
     "Move to X.ogg",
     "Orbs Coming.ogg",
+    "Peak_Performance.ogg",
     "Phase 2 Start.ogg",
     "Platforms.ogg",
     "Puddles Left.ogg",
@@ -104,6 +105,7 @@ registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 
