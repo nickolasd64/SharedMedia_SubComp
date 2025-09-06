@@ -10,10 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repo
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
       # Publish addon to Wago
       - name: Create Package
         uses: BigWigsMods/packager@v2
