@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main  # your default branch
-    tag:
-      - beta
 
 jobs:
   wago:
@@ -26,8 +24,8 @@ jobs:
       # Create Package & Upload to Wago (always stable)
       - name: Create Package
         uses: BigWigsMods/packager@v2
+        with:
+          args: -r
         env:
           WAGO_API_TOKEN: ${{ secrets.WAGO_API_TOKEN }}
           VERSION: ${{ env.VERSION }}
-          RELEASE_TYPE: retail beta
-          BUILD_TYPE: retail beta non-debug
