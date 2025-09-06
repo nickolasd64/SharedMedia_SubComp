@@ -2,7 +2,7 @@
 ## Title: SharedMedia_SubComp
 ## Notes: SubComp Media Addon
 ## Author: Skylum
-## Version: 11.2.0.14
+## Version: 11.2.0.15
 ## OptionalDeps: LibSharedMedia-3.0
 
 core.lua

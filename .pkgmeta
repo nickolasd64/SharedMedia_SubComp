@@ -6,4 +6,4 @@ ignore:
   - .git
   - .github
   - README.md
-
+  - change.txt
