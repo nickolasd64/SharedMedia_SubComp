@@ -1,0 +1,8 @@
+package-as: SharedMedia_SubComp
+
+externals: {}
+
+ignore:
+  - .git
+  - .github
+  - README.md
