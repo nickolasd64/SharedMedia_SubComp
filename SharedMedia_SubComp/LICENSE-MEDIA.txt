@@ -1,4 +1,0 @@
-All custom sound files, images, and other non-code media included in this repository are
-copyright © Skylum. These assets are licensed for use ONLY within the
-SharedMedia_SubComp addon. Redistribution, modification, or reuse of these media files
-outside of this addon is strictly prohibited without explicit permission.
