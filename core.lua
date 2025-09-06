@@ -64,6 +64,7 @@ registerFiles("sound", "sounds\\current", "Current", {
 
 registerFiles("sound", "sounds\\common", "Common", {
     "Circle Watch Feet.ogg",
+    "Fucking_Disaster.ogg",
     "Intermission.ogg",
     "Kill Adds.ogg",
     "Kill Dragon.ogg",
@@ -105,6 +106,7 @@ registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 
