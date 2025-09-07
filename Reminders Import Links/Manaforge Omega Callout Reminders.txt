@@ -20,7 +20,7 @@ Mythic:
 
 Fractillus
 Heroic:
-Mythic:
+Mythic: https://docs.google.com/document/d/1zjWv2NtYOcNpPzEc93_4mI8KM9oydWS2g0etcU3Xm_I/edit?usp=sharing
 
 Nexus-King Salhadaar
 Heroic: https://docs.google.com/document/d/1BA7-EAMWWqknr07pX4wDf4DzVjil5luySic60QjHNFA/edit?usp=sharing
@@ -29,4 +29,3 @@ Mythic:
 Dimensius, the All-Devouring
 Heroic:
 Mythic:
-
