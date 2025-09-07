@@ -49,6 +49,7 @@ registerFiles("sound", "sounds\\current", "Current", {
     "3. Loomithar Tethers Coming Out.ogg",
     "4. Araz Adds in Back.ogg",
     "4. Araz Silence Circles.ogg",
+    "5. Fractillus Shatters.ogg",
     "5. Fractillus Tank Wall Circle.ogg",
     "5. Fractillus Tank Wall Diamond.ogg",
     "5. Fractillus Tank Wall Moon.ogg",
@@ -105,12 +106,14 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Soaks.ogg",
     "Spread Out.ogg",
     "Tank Nuke countdown.ogg",
+    "Walls.ogg",
 })
 
 registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 
