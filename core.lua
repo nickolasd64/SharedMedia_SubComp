@@ -49,6 +49,12 @@ registerFiles("sound", "sounds\\current", "Current", {
     "3. Loomithar Tethers Coming Out.ogg",
     "4. Araz Adds in Back.ogg",
     "4. Araz Silence Circles.ogg",
+    "5. Fractillus Tank Wall Circle.ogg",
+    "5. Fractillus Tank Wall Diamond.ogg",
+    "5. Fractillus Tank Wall Moon.ogg",
+    "5. Fractillus Tank Wall Square.ogg",
+    "5. Fractillus Tank Wall Star.ogg",
+    "5. Fractillus Tank Wall Triangle.ogg",
     "7. Salad Bar Blue Orbs.ogg",
     "7. Salad Bar Circles to Edge.ogg",
     "7. Salad Bar Claws Out.ogg",
@@ -64,6 +70,7 @@ registerFiles("sound", "sounds\\current", "Current", {
 
 registerFiles("sound", "sounds\\common", "Common", {
     "Circle Watch Feet.ogg",
+    "Enrage Countdown.ogg",
     "Intermission.ogg",
     "Kill Adds.ogg",
     "Kill Dragon.ogg",
@@ -96,6 +103,7 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Soak 1.ogg",
     "Soak 2.ogg",
     "Soaks.ogg",
+    "Spread Out.ogg",
     "Tank Nuke countdown.ogg",
 })
 
@@ -103,6 +111,7 @@ registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 
