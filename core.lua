@@ -108,12 +108,14 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Spread Out.ogg",
     "Tank Nuke countdown.ogg",
     "Walls.ogg",
+    "Waves Watch Feet.ogg",
 })
 
 registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 
