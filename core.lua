@@ -57,6 +57,10 @@ registerFiles("sound", "sounds\\current", "Current", {
     "5. Fractillus Tank Wall Square.ogg",
     "5. Fractillus Tank Wall Star.ogg",
     "5. Fractillus Tank Wall Triangle.ogg",
+    "6. Soulhunters Hunt 1.ogg",
+    "6. Soulhunters Hunt 2.ogg",
+    "6. Soulhunters Hunt 3.ogg",
+    "6. Soulhunters Tank Souls.ogg",
     "7. Salad Bar Blue Orbs.ogg",
     "7. Salad Bar Circles to Edge.ogg",
     "7. Salad Bar Claws Out.ogg",
@@ -71,8 +75,11 @@ registerFiles("sound", "sounds\\current", "Current", {
 })
 
 registerFiles("sound", "sounds\\common", "Common", {
+    "Chasing Now Watch Feet.ogg",
+    "Chasing Soon.ogg",
     "Circle Watch Feet.ogg",
     "Enrage Countdown.ogg",
+    "Find Friends.ogg",
     "Intermission.ogg",
     "Kill Adds.ogg",
     "Kill Dragon.ogg",
@@ -86,6 +93,9 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Knockback to Moon.ogg",
     "Knockback Triangle.ogg",
     "Knockback X.ogg",
+    "Leap 1.ogg",
+    "Leap 2.ogg",
+    "Leap 3.ogg",
     "Lines Coming.ogg",
     "Move to Circle.ogg",
     "Move to Diamond.ogg",
@@ -108,6 +118,7 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Spread Out.ogg",
     "Tank Nuke countdown.ogg",
     "Walls.ogg",
+    "Watch Frontal.ogg",
     "Waves Watch Feet.ogg",
 })
 
@@ -115,6 +126,7 @@ registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 

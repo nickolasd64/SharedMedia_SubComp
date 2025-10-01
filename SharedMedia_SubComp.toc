@@ -1,8 +1,8 @@
-## Interface: 110200
+## Interface: Soulhunters Voicelines
 ## Title: SharedMedia_SubComp
 ## Notes: SubComp Media Addon
 ## Author: Skylum
-## Version: 11.2.0.32
+## Version: 11.2.1.0
 ## X-Wago-ID: kNMdaqGz
 ## OptionalDeps: LibSharedMedia-3.0
 
