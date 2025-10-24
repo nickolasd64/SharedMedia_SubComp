@@ -78,6 +78,7 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Chasing Now Watch Feet.ogg",
     "Chasing Soon.ogg",
     "Circle Watch Feet.ogg",
+    "Defensive.ogg",
     "Enrage Countdown.ogg",
     "Find Friends.ogg",
     "Intermission.ogg",
@@ -126,6 +127,7 @@ registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 
