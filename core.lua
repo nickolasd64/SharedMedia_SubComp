@@ -75,6 +75,7 @@ registerFiles("sound", "sounds\\current", "Current", {
 })
 
 registerFiles("sound", "sounds\\common", "Common", {
+    "Bait.ogg",
     "Chasing Now Watch Feet.ogg",
     "Chasing Soon.ogg",
     "Circle Watch Feet.ogg",
@@ -127,6 +128,7 @@ registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 
