@@ -72,6 +72,7 @@ registerFiles("sound", "sounds\\current", "Current", {
     "7. Salad Bar Starkillers.ogg",
     "7. Salad Bar Tank Combo.ogg",
     "7. Salad Bar Tank Laser.ogg",
+    "7. Saladbar Stars.ogg",
 })
 
 registerFiles("sound", "sounds\\common", "Common", {
@@ -128,6 +129,7 @@ registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 
