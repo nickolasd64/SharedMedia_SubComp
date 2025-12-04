@@ -73,6 +73,10 @@ registerFiles("sound", "sounds\\current", "Current", {
     "7. Salad Bar Tank Combo.ogg",
     "7. Salad Bar Tank Laser.ogg",
     "7. Saladbar Stars.ogg",
+    "8. Dimi Gravity.ogg",
+    "8. Dimi Knockback Countdown.ogg",
+    "8. Dimi Puddle Drop.ogg",
+    "8. Dimi Soak.ogg",
 })
 
 registerFiles("sound", "sounds\\common", "Common", {
@@ -129,6 +133,7 @@ registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
 
 
 
