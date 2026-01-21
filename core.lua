@@ -44,39 +44,6 @@ registerFiles("background", "backgrounds", "", {
 })
 
 registerFiles("sound", "sounds\\current", "Current", {
-    "3. Loomithar Pylons Soon.ogg",
-    "3. Loomithar Tank Frontal Kill Adds.ogg",
-    "3. Loomithar Tethers Coming Out.ogg",
-    "4. Araz Adds in Back.ogg",
-    "4. Araz Silence Circles.ogg",
-    "5. Fractillus Shatters and Spread.ogg",
-    "5. Fractillus Shatters.ogg",
-    "5. Fractillus Tank Wall Circle.ogg",
-    "5. Fractillus Tank Wall Diamond.ogg",
-    "5. Fractillus Tank Wall Moon.ogg",
-    "5. Fractillus Tank Wall Square.ogg",
-    "5. Fractillus Tank Wall Star.ogg",
-    "5. Fractillus Tank Wall Triangle.ogg",
-    "6. Soulhunters Hunt 1.ogg",
-    "6. Soulhunters Hunt 2.ogg",
-    "6. Soulhunters Hunt 3.ogg",
-    "6. Soulhunters Tank Souls.ogg",
-    "7. Salad Bar Blue Orbs.ogg",
-    "7. Salad Bar Circles to Edge.ogg",
-    "7. Salad Bar Claws Out.ogg",
-    "7. Salad Bar Cleave Interrupt.ogg",
-    "7. Salad Bar Lasers.ogg",
-    "7. Salad Bar Not Drake.ogg",
-    "7. Salad Bar Purple Orbs.ogg",
-    "7. Salad Bar Smash.ogg",
-    "7. Salad Bar Starkillers.ogg",
-    "7. Salad Bar Tank Combo.ogg",
-    "7. Salad Bar Tank Laser.ogg",
-    "7. Saladbar Stars.ogg",
-    "8. Dimi Gravity.ogg",
-    "8. Dimi Knockback Countdown.ogg",
-    "8. Dimi Puddle Drop.ogg",
-    "8. Dimi Soak.ogg",
 })
 
 registerFiles("sound", "sounds\\common", "Common", {
@@ -133,6 +100,8 @@ registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
+
 
 
 

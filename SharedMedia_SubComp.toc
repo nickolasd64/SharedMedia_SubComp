@@ -1,8 +1,8 @@
-## Interface: 110207
+## Interface: 120000
 ## Title: SharedMedia_SubComp
 ## Notes: SubComp Media Addon
 ## Author: Skylum
-## Version: 11.2.1.6
+## Version: 12.0.0.0
 ## X-Wago-ID: kNMdaqGz
 ## OptionalDeps: LibSharedMedia-3.0
 
