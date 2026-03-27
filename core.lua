@@ -44,10 +44,13 @@ registerFiles("background", "backgrounds", "", {
 })
 
 registerFiles("sound", "sounds\\current", "Current", {
+    "8. Crown Arrows Coming.ogg",
 })
 
 registerFiles("sound", "sounds\\common", "Common", {
+    "Add Shield.ogg",
     "Bait.ogg",
+    "Big Absorb.ogg",
     "Chasing Now Watch Feet.ogg",
     "Chasing Soon.ogg",
     "Circle Watch Feet.ogg",
@@ -71,6 +74,7 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Leap 2.ogg",
     "Leap 3.ogg",
     "Lines Coming.ogg",
+    "Melee Break.ogg",
     "Move to Circle.ogg",
     "Move to Diamond.ogg",
     "Move to Moon.ogg",
@@ -79,12 +83,14 @@ registerFiles("sound", "sounds\\common", "Common", {
     "Move to Star.ogg",
     "Move to Triangle.ogg",
     "Move to X.ogg",
+    "Next Platform.ogg",
     "Orbs Coming.ogg",
     "Phase 2 Start.ogg",
     "Platforms.ogg",
     "Puddles Left.ogg",
     "Puddles Right.ogg",
     "Pushback Soon Spread.ogg",
+    "Ranged Bait.ogg",
     "Rotate Beams.ogg",
     "Soak 1.ogg",
     "Soak 2.ogg",
@@ -100,6 +106,12 @@ registerFiles("border", "borders", "", {
 })
 
 -- END GENERATED FILES
+
+
+
+
+
+
 
 
 
